@@ -40,7 +40,7 @@ public class second {
             System.out.printf("%.9f", fc);
             
 
-            if ((fb * fc) < 0) {
+            if ((fa * fc) < 0) {
                 a = c;
             } else {
                 b = c;

@@ -41,9 +41,9 @@ public class second {
             
 
             if ((fa * fc) < 0) {
-                a = c;
-            } else {
                 b = c;
+            } else {
+                a = c;
             }
             e = (c - co) / c;
             if ((Math.abs(e)) <= tol) {

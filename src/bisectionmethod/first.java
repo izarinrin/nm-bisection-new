@@ -54,6 +54,6 @@ public class first {
             System.out.print("%");
             System.out.println("  iteration #" + i);
         }
-        System.out.println("The root of the function is "+fc);
+        System.out.println("The root of the function is "+c);
     }
 }
